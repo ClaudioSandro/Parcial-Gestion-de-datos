@@ -4,7 +4,7 @@
 #include "GestorBecado.h"
 
 using namespace std;
-
+//hi
 int main()
 {
 	int opt;
